@@ -1,0 +1,4 @@
+admin,admin,admin@gmail.com,1234,
+user,rahim,rahim@gmail.com,1234,
+user,kamal,kamal@gmail.com,1234,
+manager,Jamal,jamal@gmail.com,1234,

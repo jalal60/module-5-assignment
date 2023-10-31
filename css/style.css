@@ -1,0 +1,42 @@
+.card {
+    margin: 0 auto;
+}
+
+header {
+    background-color: #2c3e50;
+    color: #fff;
+    font-size: 36px;
+    font-weight: 700;
+
+}
+
+footer {
+    background-color: #2c3e50;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+.footer-gap-100 {
+    margin-top: 100px;
+}
+
+.footer-gap {
+    margin-top: 140px;
+}
+
+.padding-gap {
+    padding-bottom: 40px;
+
+}
+
+.logout-button {
+    text-align: right;
+}
+
+.user-role {
+    color: #000;
+    font-weight: 600;
+}
